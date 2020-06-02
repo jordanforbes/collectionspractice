@@ -1,0 +1,11 @@
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\bin\Debug\netcoreapp2.2\collectionsPractice.deps.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\bin\Debug\netcoreapp2.2\collectionsPractice.runtimeconfig.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\bin\Debug\netcoreapp2.2\collectionsPractice.runtimeconfig.dev.json
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\bin\Debug\netcoreapp2.2\collectionsPractice.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\bin\Debug\netcoreapp2.2\collectionsPractice.pdb
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.csprojAssemblyReference.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.AssemblyInfoInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.AssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.dll
+C:\Users\Jordf\onedrive\documents\coding\codingdojo\csharptime\csalgos\collectionsPractice\obj\Debug\netcoreapp2.2\collectionsPractice.pdb
